@@ -30,8 +30,8 @@ The agents work together to provide personalized job recommendations based on a 
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/job-matching-agents.git
-   cd job-matching-agents
+   git clone https://github.com/<yourusername>/agentic-job-seeker.git
+   cd agentic-job-seeker
    ```
 
 2. Create a virtual environment:
